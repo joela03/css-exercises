@@ -68,3 +68,9 @@ ul {
   padding: 0;
   gap: 16px
 }
+
+.header, .footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
